@@ -1,5 +1,3 @@
-
-
 public class Employee {
 String name;
 int socialSecurityNumber;
@@ -16,7 +14,5 @@ void displayInfo() {
 }
 void displaySalary() {
 	System.out.println("Salary: " + Wage*workingHours);
-}
-
-	
+}	
 }
